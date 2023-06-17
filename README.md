@@ -1,11 +1,10 @@
-<h1>About me</h1>
+<h1>Rapid Application Development</h1>
 
-<<<<<<< HEAD
-<p>Hi i'm Tharindu Dakshina</p>
-<<<<<<< HEAD
-<p>Hi i'm Tharindu Dakshina</p>
+<h2>Contributors</h2>
 
-=======
-
-=======
->>>>>>> 2573b60aac99b75143ebff77f5ef38ccf2fc448a
+<p>Dimuth</p>
+<p>Jagath</p>
+<p>Jagath</p>
+<p>tharindu</p>
+<p>dyon</p>
+<p>dakshina</p>
